@@ -1,0 +1,9 @@
+# Project exclude paths
+/spring_001_demo/target/
+/spring_002_three/target/
+/spring_003_three_xml/target/
+/spring_004_annotation/target/
+/spring_005_three_annotation/target/
+/spring_006_aop/spring_006_aop/target/
+/spring_007_aspectj/target/
+/spring_008_sm/target/

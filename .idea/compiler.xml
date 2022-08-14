@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_008_sm" />
+        <module name="spring_004_annotation" />
+        <module name="spring_007_aspectj" />
+        <module name="spring_003_three_xml" />
+        <module name="spring_002_three" />
+        <module name="spring_006_aop" />
+        <module name="spring_001_demo" />
+        <module name="spring_005_three_annotation" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
